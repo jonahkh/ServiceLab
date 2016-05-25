@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ServiceLab</string>
+    <string name="SHARED_PREFS">edu.uw.tacoma.mmuppa.serviceslab.SHAREDPREFS</string>
+    <string name="ON">on</string>
 </resources>
